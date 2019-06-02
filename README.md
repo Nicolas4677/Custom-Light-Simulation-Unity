@@ -1,0 +1,2 @@
+Assets>Editor
+Assets>Scripts
